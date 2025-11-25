@@ -112,3 +112,34 @@ Recently I have started working on The Odin Project to learn full stack developm
 
 - **Project: Recipes**
   - This small project demonstrates the things I learned under HTML Foundations.
+
+
+After the Completion of the above Sections I have gone through the CSS Foundations Section. (2025.11.25)
+
+## CSS Foundations
+- **Intro to CSS**
+  - Learned how to add styles to HTML with CSS.
+  - Learned how to use the class and ID attributes.
+  - Learned how to add styles to specific elements using the correct selectors.
+
+- **The Cascade**
+  - Learned what the cascade does.
+  - Learned what is Specificity and how to combine CSS selectors.
+  - Learned how inheritance affects certain properties.
+
+- **Inspecting HTML and CSS**
+  - Learned how to access the element inspector.
+  - Learned how to select and inspect specific elements.
+  - Learned how to test out HTML and CSS in the inspector.
+
+- **The Box Model**
+  - Learned about the box model.
+  - Learned how to make sure elements are just the right size with margin, padding, and borders.
+
+- **Block and Inline**
+  - Learned about “Normal flow”.
+  - Learned the difference between block and inline elements.
+  - Learned which elements default to block and which elements default to inline.
+  - Learned what divs and spans are.
+
+Then again as the assignment of the last section I have added css styling to this odin-recipe assignment. 
